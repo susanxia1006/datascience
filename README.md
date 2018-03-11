@@ -1,1 +1,1 @@
-Just record keeping some data science topics as I explore them.
+Code for the blog posts I make on data science related topics.
